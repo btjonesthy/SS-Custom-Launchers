@@ -1,0 +1,7 @@
+
+Process Name		ssms	
+How do I configure process arguments?
+Process Arguments	  	-E -S $Server	
+Run Process As Secret Credentials	  	Yes	
+Load User Profile	  	Yes	
+Use Operating System Shell	  	No
