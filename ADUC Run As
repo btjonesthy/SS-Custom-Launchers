@@ -1,0 +1,7 @@
+
+Process Name		powershell	
+How do I configure process arguments?
+Process Arguments	  	-noprofile -executionpolicy bypass -windowstyle hidden -command cmd.exe -ArgumentList "/c dsa.msc"	
+Run Process As Secret Credentials	  	Yes	
+Load User Profile	  	Yes	
+Use Operating System Shell	  	No
