@@ -1,0 +1,7 @@
+
+Process Name		"c:\program files (x86)\bitvise ssh client\bvssh.exe"	
+How do I configure process arguments?
+Process Arguments	  	-host=$MACHINE -user=$USERNAME -password=$PASSWORD	
+Run Process As Secret Credentials	  	No	
+Load User Profile	  	No	
+Use Operating System Shell	  	No
