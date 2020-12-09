@@ -1,0 +1,7 @@
+
+Process Name		C:\Program Files (x86)\WinSCP\WinSCP.exe	
+How do I configure process arguments?
+Process Arguments	  	$USERNAME:$PASSWORD@$MACHINE	
+Run Process As Secret Credentials	  	No	
+Load User Profile	  	No	
+Use Operating System Shell	  	No
