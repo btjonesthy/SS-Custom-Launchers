@@ -1,6 +1,6 @@
 Process Name		C:\Program Files (x86)\Mobatek\MobaXterm\MobaXterm.exe	
 How do I configure process arguments?
-Process Arguments	  	-newtab "sshpass -p $PASSWORD ssh $USERNAME@$MACHINE"	
+Process Arguments	  	-newtab "sshpass -p '$PASSWORD' ssh $USERNAME@$MACHINE"	
 Run Process As Secret Credentials	  	No	
 Load User Profile	  	No	
 Use Operating System Shell	  	No
