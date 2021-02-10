@@ -1,0 +1,14 @@
+Launcher Name	  	SecureCRT	
+Active	  	Yes	
+Additional Prompt Field Name	  	HOST	
+Launcher Image	
+Wrap custom parameters with quotation marks	  	Yes	
+Record Multiple Windows	  	Yes	
+Record Additional Processes	  	< None >	
+WINDOWS SETTINGS
+Process Name		"C:\Program Files\VanDyke Software\SecureCRT\SecureCRT.exe"	
+How do I configure process arguments?
+Process Arguments	  	/ssh2 /PASSWORD $PASSWORD /P 22 /L $USERNAME $HOST	
+Run Process As Secret Credentials	  	No	
+Load User Profile	  	No	
+Use Operating System Shell	  	No
