@@ -1,0 +1,4 @@
+
+Process Name		C:\Program Files\MySQL\MySQL Workbench 8.0 CE\Mysqlworkbench.exe	
+How do I configure process arguments?
+Process Arguments	  	--query $USERNAME:$PASSWORD@$SERVER
